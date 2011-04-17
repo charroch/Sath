@@ -35,12 +35,11 @@ class JSONSpec extends Specification {
 
     def checkValues = (s: String) ⇒ {
       val reader = new JsonReader("{}")
-      parse(reader)
-      "y" must_== "y"
+      parse(reader) must_== "y"
     }
   }
 
-  def parse(reader: JsonReader) {
+  def parse(reader: JsonReader): String = {
     val token = reader.peek;
     token match {
       case BEGIN_ARRAY  ⇒ reader.beginArray(); parse(reader)
@@ -49,7 +48,7 @@ class JSONSpec extends Specification {
       case END_OBJECT   ⇒ reader.endObject(); parse(reader)
       case NAME         ⇒ reader.nextName(); parse(reader)
       case STRING       ⇒ reader.nextString(); parse(reader)
-      case END_DOCUMENT ⇒ ""
+      case END_DOCUMENT ⇒ "y"
     }
   }
 

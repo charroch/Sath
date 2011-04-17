@@ -1,22 +1,30 @@
-/home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-library.jar:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-dbc.jar:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-swing.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/share/java/gnome-java-bridge.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/pulse-java.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunpkcs11.jar:/home/acsia/dev/scala/Sath/lib_managed/scala_2.8.1/compile/specs2_2.8.1-1.0.1.jar:/home/acsia/dev/scala/Sath/lib_managed/scala_2.8.1/compile/gson-1.6.0.jar
+/home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-library.jar:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-dbc.jar:/usr/local/eclipse/eclipse-scala_2/configuration/org.eclipse.osgi/bundles/393/1/.cp/lib/scala-swing.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/share/java/gnome-java-bridge.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/pulse-java.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunpkcs11.jar:/home/acsia/dev/scala/Sath/lib_managed/scala_2.8.1/compile/gson-1.6.0.jar:/home/acsia/dev/scala/Sath/lib_managed/scala_2.8.1/compile/specs2_2.8.1-1.2-SNAPSHOT.jar
 -------
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/src/main/java/novoda/sath/Sath.java
 /home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/src/main/java/novoda/sath/Sath.java
 /home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala
 -------
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$5$$anonfun$apply$7.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$10$$anonfun$apply$12$$anonfun$apply$13.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$1.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$10$$anonfun$apply$12.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$14.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$5$$anonfun$apply$7$$anonfun$apply$8.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$1$$anonfun$apply$3.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$5.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$4.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$9.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$10$$anonfun$apply$11.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1$$anonfun$apply$10.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2.class
-/home/acsia/dev/scala/Sath/src/test/scala/Specs2.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/HelloWorldSpec2$$anonfun$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$StringImplicit$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$result$$anonfun$extract$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$Operation$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$operator$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$Operation.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$result$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$json$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$result$$anonfun$extract$2.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$$anonfun$is$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JsonSathSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JsonSathSpec$number2$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$$anonfun$checkValues$1$$anonfun$apply$5.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$$anonfun$initJSON$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$$anonfun$setSath$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$$anonfun$checkValues$1$$anonfun$apply$4.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$c1$$anonfun$checkValues$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$StringImplicit$.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$$anonfun$is$1$$anonfun$apply$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$$anonfun$is$1$$anonfun$apply$3.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$$anonfun$is$1.class
+/home/acsia/dev/scala/Sath/src/test/scala/JSONSpec.scala -> /home/acsia/dev/scala/Sath/target/scala_2.8.1/test-classes/JSONSpec$$anonfun$is$1$$anonfun$apply$1$$anonfun$apply$2.class

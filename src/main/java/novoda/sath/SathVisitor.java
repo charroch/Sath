@@ -14,9 +14,7 @@ public interface SathVisitor {
 
 	void end();
 
-//	void addCallback(Callback callback);
-//
-//	public interface Callback {
-//		public void onHit(SathVisitor visitor);
-//	}
+	public interface Callback<T> {
+		public void onHit(SathVisitor visitor, T reader);
+	}
 }
